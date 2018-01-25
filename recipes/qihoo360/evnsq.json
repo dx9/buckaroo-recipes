@@ -1,0 +1,27 @@
+{
+  "name": "evnsq",
+  "license": "BSD-3-Clause",
+  "url": "https://github.com/Qihoo360/evpp",
+  "github": {
+    "owner": "qihoo360",
+    "project": "evpp"
+  },
+  "versions": {
+    "0.7.0": {
+      "source": {
+        "url": "https://github.com/dx9/evpp/archive/c1e350c8c0d34ecb1511dadbda0b7c182e0a0938.zip",
+        "sha256": "1d8fc1f539e5bfa1e83e29c44ad2a71b97abaa030ac818e2b639d45095e39226",
+        "subPath": "evpp-c1e350c8c0d34ecb1511dadbda0b7c182e0a0938"
+      },
+      "buck": {
+        "url": "https://raw.githubusercontent.com/dx9/evpp/0b67fa7f319c43bdccc95ad97c2c78f890bc7256/BUCK",
+        "sha256": "5f9c6ca1ad8fb5dabf6b18eeb6a6a6e83aeec34f9236dec0a4c86f94ff8fb785"
+      },
+      "dependencies": {
+        "qihoo360/evpp": "0.7.0",
+        "miloyip/rapidjson": "1.1.0"
+      },
+      "target": "evnsq"
+    }
+  }
+}
