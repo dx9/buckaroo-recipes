@@ -14,8 +14,8 @@
         "subPath": "evpp-c1e350c8c0d34ecb1511dadbda0b7c182e0a0938"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/dx9/evpp/0b67fa7f319c43bdccc95ad97c2c78f890bc7256/BUCK",
-        "sha256": "5f9c6ca1ad8fb5dabf6b18eeb6a6a6e83aeec34f9236dec0a4c86f94ff8fb785"
+        "url": "https://raw.githubusercontent.com/dx9/evpp/1862350a5b1ece10013a2808d3e5d38acfd21103/BUCK",
+        "sha256": "a1643a444344f35f7f2e7077bf7158600cd7d3b037047d109a1844c5169e37c7"
       },
       "dependencies": {
         "qihoo360/evpp": "0.7.0",
