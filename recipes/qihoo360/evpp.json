@@ -9,12 +9,12 @@
   "versions": {
     "0.7.0": {
       "source": {
-        "url": "https://github.com/dx9/evpp/archive/c1e350c8c0d34ecb1511dadbda0b7c182e0a0938.zip",
-        "sha256": "1d8fc1f539e5bfa1e83e29c44ad2a71b97abaa030ac818e2b639d45095e39226",
-        "subPath": "evpp-c1e350c8c0d34ecb1511dadbda0b7c182e0a0938"
+        "url": "https://github.com/dx9/evpp/archive/10ef85a059a1b4331bece847fe92161d66783864.zip",
+        "sha256": "81aeccd83875e7621a8a845d948190f4c23e9d73188587f6e407502807bc0bef",
+        "subPath": "evpp-10ef85a059a1b4331bece847fe92161d66783864"
       },
       "buck": {
-        "url": "https://raw.githubusercontent.com/dx9/evpp/1862350a5b1ece10013a2808d3e5d38acfd21103/BUCK",
+        "url": "https://raw.githubusercontent.com/dx9/evpp/ceade8d2c91f6080bae16763b294d3071b7d9c48/BUCK",
         "sha256": "a1643a444344f35f7f2e7077bf7158600cd7d3b037047d109a1844c5169e37c7"
       },
       "dependencies": {
